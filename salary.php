@@ -58,13 +58,12 @@
     <div class="container">
 	<form action="salary2.php"
 	<form method="POST">
-		<label>What is your salary per month in SEK?</label>
+		<label>"What is your salary per month in SEK?"</label>
 		<input type="text" name="salary" placeholder="ex. 35000">
 		<button type="submit" class="btn">Submit</button><br>
 		
     </div> <!-- /container -->
 
-  <footer>
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
@@ -82,6 +81,5 @@
     <script src="../assets/js/bootstrap-carousel.js"></script>
     <script src="../assets/js/bootstrap-typeahead.js"></script>
 
-  </footer>
   </body>
 </html>
